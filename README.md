@@ -35,6 +35,6 @@ Open your terminal, navigate to the project directory containing all the files, 
 ```bash
 gcc -Wall -Wextra -std=c99 *.c -o EasyCharge
 
-Author
+## ** Author **
 Ido Mor
 B.Sc. Computer Engineering Student
