@@ -41,4 +41,4 @@ Then, execute the application: `./EasyCharge`
 
 Author:
 Ido Mor
-B.Sc. Computer Engineering Student
+,B.Sc. Computer Engineering Student
