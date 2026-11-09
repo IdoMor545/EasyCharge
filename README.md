@@ -34,7 +34,8 @@ This project was designed from first principles, utilizing custom-implemented da
 Open your terminal, navigate to the project directory containing all the files, and run the following command to compile:
 ```bash
 gcc -Wall -Wextra -std=c99 *.c -o EasyCharge
-``` 
- Author
+Then, execute the application: ./EasyCharge
+
+ Author:
 Ido Mor
 B.Sc. Computer Engineering Student
