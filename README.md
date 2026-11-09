@@ -30,7 +30,11 @@ This project was designed from first principles, utilizing custom-implemented da
 * GCC Compiler (or any standard C compiler)
 * Windows (WSL/MinGW), Linux, or macOS environment
 
-### Compilation & Execution
-To compile the project using GCC, navigate to the project directory and run:
+**Option 2: Using GCC (Linux / WSL / macOS)**
+Open your terminal, navigate to the project directory containing all the files, and run the following command to compile:
 ```bash
 gcc -Wall -Wextra -std=c99 *.c -o EasyCharge
+
+Author
+Ido Mor
+B.Sc. Computer Engineering Student
