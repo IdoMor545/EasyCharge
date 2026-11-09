@@ -32,9 +32,12 @@ This project was designed from first principles, utilizing custom-implemented da
 
 **Option 2: Using GCC (Linux / WSL / macOS)**
 Open your terminal, navigate to the project directory containing all the files, and run the following command to compile:
+
 ```bash
 gcc -Wall -Wextra -std=c99 *.c -o EasyCharge
-Then, execute the application: ./EasyCharge```
+```
+
+Then, execute the application: `./EasyCharge`
 
 Author:
 Ido Mor
